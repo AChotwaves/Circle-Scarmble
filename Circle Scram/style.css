@@ -1,0 +1,24 @@
+body{
+	overflow:hidden;
+	background-image:url('brock.jpg');
+	user-select:none;
+	
+	
+}
+
+.circle{
+	height:200px;
+	width:200px;
+	position: absolute;
+	border-radius: 180px;
+}
+
+#red{
+	width:100px;
+	height:100px;
+}
+
+#header{
+	text-align:center;
+	color:yellow;
+}
